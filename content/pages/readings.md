@@ -69,7 +69,7 @@ Background on regional modeling and modeling assumptions/economic base studies
 
 Fingleton, Bernard, Danilo Camargo Igliori, and Barry Moore. "Employment Growth of Small High-technology Firms and the Role of Horizontal Clustering: Evidence from Computing Services and R&D in Great Britain, 1991-2000." _Urban Studies_ 41, no. 4 (2004): 773-799.
 
-Smirnov, Oleg, and Alena Smirnova. "An Assessment of the Economic Base of Distressed and Near-Distressed Counties in Appalachia: Report to the Appalachian Regional Commission ([PDF - 1.3MB](https://trid.trb.org/view/364568))." Bruton Center for Development Studies, The University of Texas at Dallas, 2000.
+Smirnov, Oleg, and Alena Smirnova. "An Assessment of the Economic Base of Distressed and Near-Distressed Counties in Appalachia: Report to the Appalachian Regional Commission ({{% resource_link "8f629c08-ca82-4ea3-98c8-f67685a0eb73" "PDF - 1.3MB" %}})." Bruton Center for Development Studies, The University of Texas at Dallas, 2000.
 
 Andersson, Ake, and David F. Batten. "Creative Nodes, Logistical Networks, and the Future of the Metropolis." _Transportation_ 14, no. 4 (1987): 281-293.
 
@@ -86,9 +86,9 @@ Howells, Jeremy R. L. "Tacit Knowledge, Innovation and Economic Geography." _Urb
 {{< tdopen >}}
 
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262112031) Krugman, Paul. [_Development, Geography, and Economic Theory_](https://mitpress.mit.edu/9780262112031). Cambridge, MA: The MIT Press, 1995. ISBN: 9780262112031. Read "Geography Lost and Found," pp. 31-65 and "Appendix," pp. 89-108.
+{{% resource_link "6ed2df15-a619-4509-97de-02b53a980f4c" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Krugman, Paul. {{% resource_link "6ed2df15-a619-4509-97de-02b53a980f4c" "_Development, Geography, and Economic Theory_" %}}. Cambridge, MA: The MIT Press, 1995. ISBN: 9780262112031. Read "Geography Lost and Found," pp. 31-65 and "Appendix," pp. 89-108.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262610865) ———. "Center and Periphery." Chapter 1 in [_Geography and Trade_](https://mitpress.mit.edu/9780262610865). Cambridge, MA: The MIT Press, 1992. ISBN: 9780262610865.
+{{% resource_link "3e533d6e-0da2-45a2-b0c9-dcc0784e1e1b" "![Buy at MIT Press](/images/mp_logo.gif)" %}} ———. "Center and Periphery." Chapter 1 in {{% resource_link "3e533d6e-0da2-45a2-b0c9-dcc0784e1e1b" "_Geography and Trade_" %}}. Cambridge, MA: The MIT Press, 1992. ISBN: 9780262610865.
 
 Henderson, J. Vernon, Zmarak Shalizi, and Anthony J. Venables. "Geography and Development." _Journal of Economic Geography_ 1 (2001): 81-106.
 
@@ -106,7 +106,7 @@ Background on input-output equations and data preparation for the REMI model
 {{< tdopen >}}
 
 
-Treyz, Frederick, and George Treyz. "The Evaluation of Programs Aimed at Local and Regional Development: Methodology and Twenty Years' Experience Using Policy Insight." In [_Evaluating Local Economic and Employment Development: How to Assess What Works Among Programmes and Policies_](http://www.oecdbookshop.org/oecd/display.asp?lang=EN&sf1=identifiers&st1=842004031p1). Paris, France: OECD Publishing, 2004. ISBN: 9789264017085.
+Treyz, Frederick, and George Treyz. "The Evaluation of Programs Aimed at Local and Regional Development: Methodology and Twenty Years' Experience Using Policy Insight." In {{% resource_link "75aa0c0e-ea37-41de-bd82-071336eba505" "_Evaluating Local Economic and Employment Development: How to Assess What Works Among Programmes and Policies_" %}}. Paris, France: OECD Publishing, 2004. ISBN: 9789264017085.
 
 Lahr, Michael L., and Benjamin H. Stevens. "A Study of the Role of Regionalization in the Generation of Aggregation Error in Regional Input-output Models." _Journal of Regional Science_ 42, no. 3 (2002): 477-507.
 
@@ -150,10 +150,10 @@ Dietzenbacher, Erik. "Interregional Multipliers: Looking Backward, Looking Forwa
 Stevens, Benjamin, and Michael Lahr. "Regional Economic Multipliers: Definition, Measurement, and Application." _Economic Development Quarterly_ 2, no. 1 (1988): 88-96.
 
 Weisbrod, Glen E., and James Beckwith. "Measuring Economic Development Benefits for Highway Decision-making: The Wisconsin Case." _Transportation Quarterly_ 46, no. 1 (1992): 57-79.  
-([PDF](https://www.ebp-us.com/en/projects/measuring-economic-development-benefits-highway-decision-making-wisconsin-case))
+({{% resource_link "80e17253-e451-44c9-9c7f-8602dbb34bb0" "PDF" %}})
 
 Weisbrod, Glen. "Evolution of Methods for Assessing Economic Development Impacts of Proposed Transportation Projects." Paper presented at the 3rd International Conference on Transportation and Economic Development, PLACE, March 2006.  
-([PDF](https://www.ebp-us.com/en/projects/evolution-methods-assessing-economic-development-impacts-transportation))
+({{% resource_link "173c9c7f-5d6a-423b-9ff5-31f03069e87b" "PDF" %}})
 
 Isserman, Andrew, and Terance Rephann. "The Economic Effects of the Appalachian Regional Commission: An Empirical Assessment of 26 Years of Regional Development Planning." _Journal of the American Planning Association_ 61, no. 3 (1995): 345-364.
 
@@ -166,7 +166,7 @@ Wilbur Smith Associates. "Appalachian Development Highways Economic Impact Studi
 
 Polenske, Karen R. "Current Uses of the RAS Technique: A Critical Review." In _Price, Growth, and Cycles_. Edited by Andras Brody, Andras Simonovits and Albert Steenge. London, England: Palgrave Macmillan, 1997, pp. 58-88. ISBN: 9780333641651.
 
-Weisbrod, Glen, and Burton Weisbrod. "Measuring Economic Impacts of Projects and Programs." Economic Development Research Group, Boston, MA, 1997. ([PDF](http://www.edrgroup.com/images/stories/Transportation/econ-impact-primer.pdf))
+Weisbrod, Glen, and Burton Weisbrod. "Measuring Economic Impacts of Projects and Programs." Economic Development Research Group, Boston, MA, 1997. ({{% resource_link "09fa65ef-17c5-4ea9-ba9c-5ee2076eab7d" "PDF" %}})
 
 Jensen, R. C., and G. R. West. "The Effect of Relative Coefficient Size on Input-Output Multipliers." _Environment and Planning A_ 12, no. 8 (1980): 927-936.
 
@@ -219,7 +219,7 @@ Mohnen, Pierre. "Productivity Trends and Employment Across Industries in Canada.
 
 Wallsten, Scott J. "An Empirical Test of Geographic Knowledge Spillovers Using Geographic Information Systems and Firm-level Data." _Regional Science and Urban Economics_ 31, no. 5 (2001): 571-599.
 
-Anselin, Luc, Ibnu Syabri, and Youngihn Kho. "GeoDa: An Introduction to Spatial Data Analysis." Working paper, Spatial Analysis Laboratory, University of Illinois, Urbana-Champaign, 2004. ([PDF](http://geodacenter.asu.edu/pdf/geodaGA.pdf))
+Anselin, Luc, Ibnu Syabri, and Youngihn Kho. "GeoDa: An Introduction to Spatial Data Analysis." Working paper, Spatial Analysis Laboratory, University of Illinois, Urbana-Champaign, 2004. ({{% resource_link "333d9fb3-780c-463d-9d56-9dd49f65923e" "PDF" %}})
 
 
 {{< tdclose >}}
@@ -305,7 +305,7 @@ Horan, Cynthia, and Andrew E. G. Jonas. "Governing Massachusetts: Uneven Develop
 {{< tdopen >}}
 
 
-Fogg, Neeta, Paul Harrington, and Thomas Kochan. "[The State of Working Families in Massachusetts](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=511262)." MIT Sloan Working Paper 4473-04, January 2004. Work-Family Council Initiative Working Paper No. 0001.
+Fogg, Neeta, Paul Harrington, and Thomas Kochan. "{{% resource_link "837c2cbe-754c-4f50-8205-b8a0022b5c2e" "The State of Working Families in Massachusetts" %}}." MIT Sloan Working Paper 4473-04, January 2004. Work-Family Council Initiative Working Paper No. 0001.
 
 Readings related to the client's interests will be made available during the semester.
 
@@ -323,9 +323,9 @@ Green buildings
 {{< tdopen >}}
 
 
-Kats, Greg, et al. "The Costs and Financial Benefits of Green Buildings: A Report to California's Sustainable Building Task Force." Washington, DC: Capital E, 2003. ([PDF - 3.1MB](https://noharm-uscanada.org/documents/costs-and-financial-benefits-green-buildings-report-california%E2%80%99s-sustainable-building-task))
+Kats, Greg, et al. "The Costs and Financial Benefits of Green Buildings: A Report to California's Sustainable Building Task Force." Washington, DC: Capital E, 2003. ({{% resource_link "c382a7d6-da6b-48be-b24f-3ca982aab0cf" "PDF - 3.1MB" %}})
 
-[Green Communities Act](http://www.mass.gov/?pageID=gov3pressrelease&L=1&L0=Home&sid=Agov3&b=pressrelease&f=080702_bill_energy_clean&csid=Agov3), Massachusetts.
+{{% resource_link "42c3c833-7275-4ff5-a369-13b31e40ce99" "Green Communities Act" %}}, Massachusetts.
 
 Wier, Mette. "Sources of Changes in Emissions from Energy: a Structural Decomposition Analysis." _Economic Systems Research_ 10, no. 2 (1998): 99-112.
 
@@ -354,7 +354,7 @@ Guest lecture: Ryan Tam, AICP, MIT PhD candidate.
 {{< tdopen >}}
 
 
-"[Governor Patrick Signs Bill Promoting Advanced Biofuels](http://www.mass.gov/?pageID=gov3pressrelease&L=1&L0=Home&sid=Agov3&b=pressrelease&f=080728_Clean_Energy_Biofuels_Act&csid=Agov3)." Press release, July 28, 2008.
+"{{% resource_link "48a5b2ff-e728-4c70-9848-de0636c81871" "Governor Patrick Signs Bill Promoting Advanced Biofuels" %}}." Press release, July 28, 2008.
 
 Munksgaard, Jesper, Mette Wier, Manfred Lenzen, and Christopher Dey. "Input-Output Analysis to Measure the Environmental Pressure of Consumption at Different Spatial Levels." _Journal of Industrial Ecology_ 9, nos. 1-2 (2005): 169-185.
 
