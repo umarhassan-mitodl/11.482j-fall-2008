@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides the three problem sets assigned for the course
   along with a handout containing general comments from the instructor.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
