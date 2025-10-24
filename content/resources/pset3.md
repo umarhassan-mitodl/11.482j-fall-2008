@@ -6,8 +6,6 @@ description: Problem set on the socioeconomic impact on the New Market area of t
 file: /courses/11-482j-regional-socioeconomic-impact-analyses-and-modeling-fall-2008/c5cfe38f1aa8c3853cc5f308419f3f6d_pset3.pdf
 file_size: 61170
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

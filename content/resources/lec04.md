@@ -6,8 +6,6 @@ description: Lecture presentation on alternative types of regional input-output 
 file: /courses/11-482j-regional-socioeconomic-impact-analyses-and-modeling-fall-2008/fb592a6e36dbfe316190b3bc9d2f9bfe_lec04.pdf
 file_size: 313795
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
